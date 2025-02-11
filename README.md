@@ -4,7 +4,7 @@ This code is an attempt at integrating multiple libraries in order to be able to
 
 So far, the only things we've been able to accomplish in this prototype are:
 1. Text extraction (w/ Spell checking to reduce chance of error)
-2. Highlighted text extraction
+2. Highlighted text extraction (Yellow & Green highlights)
 3. Placing the highlighted & regular text in a word document
 
 In order to run this prototype you will need these packages:
