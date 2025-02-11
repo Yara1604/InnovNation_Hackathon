@@ -7,10 +7,5 @@ So far, the only things we've been able to accomplish in this prototype are:
 2. Highlighted text extraction (Yellow & Green highlights)
 3. Placing the highlighted & regular text in a word document
 
-In order to run this prototype you will need these packages:
-easyocr
-cv2
-numpy
-docx  
-docx.shared
-spellchecker
+In order to run this prototype you will need these packages:<br/>
+(easyocr, cv2, numpy, docx, docx.shared, spellchecker, docx.enum.text)
