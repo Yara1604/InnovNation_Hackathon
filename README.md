@@ -14,3 +14,5 @@ In order to run this prototype you will need these packages:<br/>
 
 Kindly, begin by taking a look at the sample image. Then, take a look at the output.docx which is a document that extracts the text (with only one incorrect word) and highlights the text correctly.
 However, the layout of the text is still a work under progress.
+
+Thank you! 🌸
